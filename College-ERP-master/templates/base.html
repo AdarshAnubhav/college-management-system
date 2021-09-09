@@ -1,0 +1,32 @@
+{% load static %}
+
+<html>
+    <head>
+        <title>C.C.A</title>
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400" rel="\stylesheet">
+        <link rel="stylesheet" href="{% static 'info/css/base.css' %}">
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <div class="nav-left">
+                      <img class="logo" src="{% static 'info/images/gu.jpg' %}" width="220" height="40" alt="">
+                    <h1><a href="/blog">Galgotias University</a></h1>
+
+                </div>
+                <div class="nav-right">
+                    <a href="{% url 'post_new' %}">+ New Blog Post</a>
+                </div>
+            </header>
+            {% if user.is_authenticated %}
+                <p>Hi {{ user.username }}!</p>
+                <p><a href="{% url 'logout' %}">logout</a></p>
+            {% else %}
+                You are not logged in.</p>
+                <a href="{% url 'login' %}">login</a>
+            {% endif %}
+            {% block content %}
+            {% endblock content %}
+        </div>
+    </body>
+</html>

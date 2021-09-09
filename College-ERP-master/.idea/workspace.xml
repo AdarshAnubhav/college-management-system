@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3e873c9-d3bf-4fbd-921b-66ffd3e00ed7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1hYBD2hGPxaHjgTzv6V4WXERf7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Download/Disease-Prediction/Disease-Prediction-using-Django-and-machine-learning-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Minor Project\Minor\V 1\College-ERP-master\College-ERP-master\info\static\info\images" />
+      <recent name="D:\Minor Project\Minor\V 1\College-ERP-master\College-ERP-master\info\static\info" />
+      <recent name="D:\Minor Project\Minor\V 1\College-ERP-master\College-ERP-master\static\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="College-ERP-master" type="Python.DjangoServer" factoryName="Django server">
+      <module name="College-ERP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="CollegeERP.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3e873c9-d3bf-4fbd-921b-66ffd3e00ed7" name="Default Changelist" comment="" />
+      <created>1600178021851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600178021851</updated>
+      <workItem from="1600178033867" duration="3274000" />
+      <workItem from="1600541990173" duration="411000" />
+      <workItem from="1601356427042" duration="790000" />
+      <workItem from="1601358055316" duration="358000" />
+      <workItem from="1601529428150" duration="31000" />
+      <workItem from="1601738973702" duration="1744000" />
+      <workItem from="1601740977177" duration="1440000" />
+      <workItem from="1601900292959" duration="36000" />
+      <workItem from="1602216653345" duration="84000" />
+      <workItem from="1603112699581" duration="160000" />
+      <workItem from="1603113219152" duration="1566000" />
+      <workItem from="1604158566644" duration="1086000" />
+      <workItem from="1604176295670" duration="70000" />
+      <workItem from="1604302307459" duration="1261000" />
+      <workItem from="1604326885511" duration="1754000" />
+      <workItem from="1604343478791" duration="273000" />
+      <workItem from="1604343758380" duration="452000" />
+      <workItem from="1604344212899" duration="4087000" />
+      <workItem from="1604350430985" duration="1744000" />
+      <workItem from="1604352277317" duration="1003000" />
+      <workItem from="1604379942162" duration="1228000" />
+      <workItem from="1604381198627" duration="3311000" />
+      <workItem from="1604567377314" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604352636188">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1604352636188" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1604567434855">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604567434855" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1604381182387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604381182387" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1604381182387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604381182387" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1604381182387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604381182387" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1604381182387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604381182387" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1601740050871">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1601740050871" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1604326997888">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604326997888" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1604567390360">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1604567390360" />
+  </component>
+</project>
